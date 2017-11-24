@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to The Duck Nest
 
-You can use the [editor on GitHub](https://github.com/SarahSoufflet/The-Duck-Nest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [Duck Nest](https://github.com/SarahSoufflet/The-Duck-Nest/edit/master/index.md) to keep in touch with your partner when you are separated by distance.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
